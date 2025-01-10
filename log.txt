@@ -1,0 +1,21 @@
+PS C:\Users\Felipe\OneDrive\Ambiente de Trabalho\Desafio Target> python Questão1.py
+91
+PS C:\Users\Felipe\OneDrive\Ambiente de Trabalho\Desafio Target> python Questão2.py
+Informe um número: 5
+O número 5 pertence à sequência de Fibonacci.
+PS C:\Users\Felipe\OneDrive\Ambiente de Trabalho\Desafio Target> python Questão2.py
+Informe um número: 40
+O número 40 não pertence à sequência de Fibonacci.
+PS C:\Users\Felipe\OneDrive\Ambiente de Trabalho\Desafio Target> python Questão3.py
+Menor valor de faturamento: 373.7838
+Maior valor de faturamento: 48924.2448
+Número de dias com faturamento acima da média: 10
+PS C:\Users\Felipe\OneDrive\Ambiente de Trabalho\Desafio Target> python Questão4.py
+SP: 37.53%
+RJ: 20.29%
+MG: 16.17%
+ES: 15.03%
+Outros: 10.98%
+PS C:\Users\Felipe\OneDrive\Ambiente de Trabalho\Desafio Target> python Questão5.py
+String original: String
+String invertida: gnirtS
