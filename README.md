@@ -1,4 +1,4 @@
-# Desafio Target Sistemas
+# Desafio Tecnico
 
 ## 💻 Sobre o projeto
 Resolução do desafio técnico, contendo 5 questões que abordam diferentes conceitos de programação.
